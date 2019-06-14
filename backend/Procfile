@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT stpso_deputy_handboo_4640.wsgi:application

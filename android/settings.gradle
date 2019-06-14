@@ -1,0 +1,3 @@
+rootProject.name = 'stpso_deputy_handboo_4640'
+
+include ':app'
